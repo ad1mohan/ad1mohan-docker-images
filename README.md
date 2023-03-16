@@ -1,2 +1,2 @@
 # docker-images
-This repo contains all my custom docker images
+This repository contains all my custom repositories.
